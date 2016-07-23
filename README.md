@@ -1,3 +1,3 @@
-# exo_airbnb
+# site_airbnb
 ##Défi HTML/CSS
-###Création d'une copie le plus fidèle du site Airbnb
+###Création d'une copie la plus fidèle du site Airbnb
