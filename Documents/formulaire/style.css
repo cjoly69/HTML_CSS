@@ -1,0 +1,56 @@
+* {
+margin: 0;
+border: none;
+}
+
+body{
+  color: grey;
+  font-family: sans-serif;
+  background-color: #d5f4e6;
+  line-height: 1.5;
+  padding: 20%;
+}
+
+fieldset{
+
+}
+
+form{
+  background-color: #fefbd8;
+  border-radius: 2%;
+  height: 19em;
+  margin: 0 auto;
+  padding-top: 4%;
+  width: 40%;
+  text-align: center;
+}
+
+.label{
+  font-size: 18px;
+  margin-bottom: 2%;
+  width: 141px;
+  height: 47px;
+  text-align: center;
+}
+
+button{
+  background-color: #80ced6;
+  border: none;
+  color: grey;
+  font-size: 20px;
+  width: 141px;
+  height: 47px;
+  padding-left: 7%;
+}
+
+.block{
+  display: flex;
+  margin: 0 auto;
+}
+
+a{
+  padding-top: 4%;
+  text-decoration: none;
+  color: #80ced6;
+  padding-left: 25%;
+}
